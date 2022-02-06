@@ -42,17 +42,17 @@ public class Setup extends JavaPlugin {
     }
     
     private void ConfigCreate() {
-    	config.set("Crafting.Revival Token.Top Left", "NETHERITE_BLOCK");
+    	config.set("Crafting.Revival Token.Top Left", "GOLD_BLOCK");
     	config.set("Crafting.Revival Token.Top Center", "TOTEM_OF_UNDYING");
-    	config.set("Crafting.Revival Token.Top Right", "NETHERITE_BLOCK");
+    	config.set("Crafting.Revival Token.Top Right", "GOLD_BLOCK");
     	
-    	config.set("Crafting.Revival Token.Middle Left", "HEART_OF_THE_SEA");
+    	config.set("Crafting.Revival Token.Middle Left", "WITHER_SKULL");
     	config.set("Crafting.Revival Token.Middle Center", "NETHER_STAR");
-    	config.set("Crafting.Revival Token.Middle Right", "SHULKER_BOX");
+    	config.set("Crafting.Revival Token.Middle Right", "WITHER_SKULL");
     	
-    	config.set("Crafting.Revival Token.Bottom Left", "NETHERITE_BLOCK");
+    	config.set("Crafting.Revival Token.Bottom Left", "GOLD_BLOCK");
     	config.set("Crafting.Revival Token.Bottom Center", "END_CRYSTAL");
-    	config.set("Crafting.Revival Token.Bottom Right", "NETHERITE_BLOCK");
+    	config.set("Crafting.Revival Token.Bottom Right", "GOLD_BLOCK");
     }
     
     
